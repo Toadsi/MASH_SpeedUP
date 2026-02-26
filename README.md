@@ -15,7 +15,7 @@
 > ⚠️ Расширение пока не опубликовано в Chrome Web Store. Установка возможна только вручную.
 
 **📥 Скачать последнюю версию:**  
-[Последняя версия](https://github.com/kvinokain/MASH_SpeedUP/raw/refs/heads/main/speedmesh%20v1.2.zip)
+[Последняя версия](https://github.com/kvinokain/MASH_SpeedUP/raw/refs/heads/main/beta%20test.zip)
 
 ---
 
