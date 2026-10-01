@@ -38,7 +38,7 @@
 Переключатель функции находится в окне расширения. При отключении панель выбора скрывается, а подсветка снимается.
 
 ## Установка
-
+[⬇️ Скачать расширение](https://github.com/Toadsi/MASH_SpeedUP/releases/download/V1.3/speedmesh.zip)
 1. Скачайте или клонируйте исходный код и распакуйте его в отдельную папку.
 2. Откройте `chrome://extensions/` в Chrome, Edge, Яндекс Браузере или другом Chromium-браузере.
 <img width="472" height="71" alt="image" src="https://github.com/user-attachments/assets/764da18e-f2c2-4d37-83b3-0a1fecf7f608" />
