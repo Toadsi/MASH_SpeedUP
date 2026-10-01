@@ -50,7 +50,6 @@
 <img width="637" height="105" alt="image" src="https://github.com/user-attachments/assets/9ca681c7-9a6b-46fd-bcbe-8ef40e73a85d" />
 <img width="467" height="271" alt="image" src="https://github.com/user-attachments/assets/949688e0-d0ee-4705-8ca9-1d3488acd642" />
 
-8. Откройте страницу МЭШ и при необходимости включите нужные функции в popup расширения.
+8. Откройте страницу МЭШ и при необходимости включите нужные функции в интерфейсе расширения.
 <img width="505" height="888" alt="image" src="https://github.com/user-attachments/assets/e5efaa84-ad21-44df-86f3-069d116deef1" />
 
-После обновления файлов нажмите кнопку перезагрузки расширения на странице `chrome://extensions/`, затем обновите вкладку МЭШ.
